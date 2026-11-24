@@ -27,7 +27,7 @@ Senior AI Engineer and hands-on tech lead. I build governed agentic AI platforms
 
 Self-hosted, multi-vendor AI coding pipeline. Each agent works in its own git worktree, and the work ships only if your build, tests and lint pass. Vendor failover, encrypted secrets vault and prompt-injection scan included. Proprietary product, public docs.
 
-→ [Website](https://capitaltools.app/[global/PGDATABASE]) · [How it's engineered](https://github.com/sergiovision/DevAgentForce/blob/HEAD/docs/engineering/README.md)
+→ [Website](https://capitaltools.app/devagentforce) · [How it's engineered](https://github.com/sergiovision/DevAgentForce/blob/HEAD/docs/engineering/README.md)
 
 <a href="https://github.com/sergiovision/DevServer"><img src="https://raw.githubusercontent.com/sergiovision/DevServer/HEAD/assets/viewtask.png" alt="DevServer task view: live agent event log, run history and settings" width="80%" /></a>
 
@@ -41,7 +41,7 @@ Runs Claude Code, Codex, Gemini and GLM as one queue, with MCP and A2A interface
 ### 📈 Trading and fintech
 
 - **[FinCore](https://github.com/sergiovision/FinCore)** [![Stars](https://img.shields.io/github/stars/sergiovision/FinCore?style=flat&label=%E2%98%85)](https://github.com/sergiovision/FinCore): self-hosted trading and personal-finance back office with a MetaTrader 5 bridge and real-time WebSockets. `.NET 10` `Angular`. This is the legacy demo; [the current product is here](https://capitaltools.app/fincore).
-- **[MQLConnector](https://github.com/sergiovision/MQLConnector)**: low-latency C++20 messaging for MetaTrader 5, **65 µs p50 round trip** over loopback, replacing a connector that took 50–300 ms. [Design](https://github.com/sergiovision/MQLConnector/blob/HEAD/docs/DESIGN.md)
+- **[MQLConnector](https://github.com/sergiovision/MQLConnector)**: low-latency C++20 messaging for MetaTrader 5 [Design](https://github.com/sergiovision/MQLConnector/blob/HEAD/docs/DESIGN.md)
 
 ## Where I've done it
 
