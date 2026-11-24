@@ -29,7 +29,7 @@ Self-hosted, multi-vendor AI coding pipeline. Each agent works in its own git wo
 
 → [Website](https://capitaltools.app/devagentforce) · [How it's engineered](https://github.com/sergiovision/DevAgentForce/blob/HEAD/docs/engineering/README.md)
 
-<a href="https://github.com/sergiovision/DevServer"><img src="https://raw.githubusercontent.com/sergiovision/DevServer/HEAD/assets/viewtask.png" alt="DevServer task view: live agent event log, run history and settings" width="80%" /></a>
+<a href="https://capitaltools.app/devagentforce"><img src="https://capitaltools.app/devagentforce/dashboard.png" alt="DevAgentForce dashboard: agent queue, vendor limits, success rate, cost and token analytics" width="80%" /></a>
 
 ### 🛠️ [DevServer](https://github.com/sergiovision/DevServer): the open-source MVP behind it
 
