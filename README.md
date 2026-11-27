@@ -4,7 +4,7 @@
 
 Senior AI Engineer and hands-on tech lead. I build governed agentic AI platforms for banks, trading firms and regulated enterprises, on top of 20 years of production C#/.NET, Python and Java.
 
-📍 Almaty Kazahstan (UTC+5) and Yerevan Armenia (UTC+4) · Remote across EU, UK, UAE and Australia · Open to on-site and relocation · **Available now, full-time or contract**
+📍 Almaty Kazahstan (UTC+5) and Abu Dhabi UAE (UTC+4) · Remote across EU, UK, UAE and Australia · Open to on-site and relocation · **Available now, full-time or contract**
 
 [![Email](https://img.shields.io/badge/Email-hi%40sergego.com-D14836?logo=maildotru&logoColor=white)](mailto:hi@sergego.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sergeizhuravlev-0A66C2)](https://linkedin.com/in/sergeizhuravlev)
